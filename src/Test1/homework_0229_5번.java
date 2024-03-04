@@ -1,4 +1,4 @@
-package t1;
+package Test1;
 
 /*
   중첩 for문을 이용하여 방정식 2x + 3y = 30의 모든 해를 구해서 (x,y) 형태로 출력해보세요.

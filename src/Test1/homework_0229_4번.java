@@ -1,4 +1,4 @@
-package t1;
+package Test1;
 
 /*
  while문과 Math.random()메소드를 이용해서 두 개의 주사위를 던졌을 때 나오는 눈을 (눈1, 눈2) 형태로 출력하고,

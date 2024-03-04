@@ -1,4 +1,4 @@
-package t1;
+package Test1;
 
 // for문을 이용해서 실행 결과와 같은 마름모를 출력하는 코드를 작성해보세요. 
 public class homework_0229_6번 {
